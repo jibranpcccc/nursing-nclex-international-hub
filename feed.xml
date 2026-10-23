@@ -4,10 +4,17 @@
     <title>NCLEX-RN &amp; Global Nurses Hub</title>
     <link>https://nursing-nclex-international-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:01:36 GMT</lastBuildDate>
     <atom:link href="https://nursing-nclex-international-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                    <item>
+                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
+      <link>https://discord.gg/linux</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/nursing-nclex-international-hub/#nursing-nclex-international-hub-discord-20261023-1-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 06:01:36 GMT</pubDate>
+      <description>Newly verified community added to NCLEX-RN &amp; Global Nurses Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/privacy Digital Rights Forum (Reddit)</title>
       <link>https://www.reddit.com/r/privacy/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/nursing-nclex-international-hub/#nursing-nclex-international-hub-reddit-20261022-1-2026-10-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/nursing-nclex-international-hub/#nursing-nclex-international-hub-telegram-20260923-1-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 06:01:28 GMT</pubDate>
       <description>Newly verified community added to NCLEX-RN &amp; Global Nurses Hub: Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/StableDiffusion Local Art (Reddit)</title>
-      <link>https://www.reddit.com/r/StableDiffusion/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/nursing-nclex-international-hub/#nursing-nclex-international-hub-reddit-20260922-1-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 06:01:28 GMT</pubDate>
-      <description>Newly verified community added to NCLEX-RN &amp; Global Nurses Hub: Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.</description>
     </item>
   </channel>
 </rss>
